@@ -1,5 +1,6 @@
 
 # Contributors
+- [Mikael Steiner] (https://github.com/Migi1999)
 - [Yuvraj Singh] (https://github.com/YuvrajS01)
 - [ Idris Oladipo] (https://github.com/Milo82)   
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
